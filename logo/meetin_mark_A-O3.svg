@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="344" height="208" viewBox="-86 -52 172 104"><title>meet in</title><defs>
+<clipPath id="top20"><rect x="-200" y="-200" width="400" height="184"/></clipPath>
+<clipPath id="bot20"><rect x="-200" y="16" width="400" height="200"/></clipPath>
+<mask id="mL20" maskUnits="userSpaceOnUse" x="-200" y="-200" width="400" height="400"><rect x="-200" y="-200" width="400" height="400" fill="#fff"/><circle cx="-16" cy="-7.0" r="12.65" fill="#000"/><path d="M-28.6 20.0 v-5.4 a12.6 12.6 0 0 1 25.2 0 v5.4 Z" fill="#000" stroke="#000" stroke-width="10" stroke-linejoin="round"/><circle cx="16" cy="-7.0" r="12.65" fill="#000"/><path d="M3.4000000000000004 20.0 v-5.4 a12.6 12.6 0 0 1 25.2 0 v5.4 Z" fill="#000" stroke="#000" stroke-width="10" stroke-linejoin="round"/><rect x="-9" y="-16" width="18" height="40" fill="#000"/>
+ </mask>
+<mask id="mR20" maskUnits="userSpaceOnUse" x="-200" y="-200" width="400" height="400"><rect x="-200" y="-200" width="400" height="400" fill="#fff"/><circle cx="-16" cy="-7.0" r="12.65" fill="#000"/><path d="M-28.6 20.0 v-5.4 a12.6 12.6 0 0 1 25.2 0 v5.4 Z" fill="#000" stroke="#000" stroke-width="10" stroke-linejoin="round"/><circle cx="16" cy="-7.0" r="12.65" fill="#000"/><path d="M3.4000000000000004 20.0 v-5.4 a12.6 12.6 0 0 1 25.2 0 v5.4 Z" fill="#000" stroke="#000" stroke-width="10" stroke-linejoin="round"/><rect x="-9" y="-16" width="18" height="40" fill="#000"/>
+ </mask></defs>
+<g mask="url(#mL20)"><path d="M-40 0 a40 40 0 1 0 80 0 a40 40 0 1 0 -80 0 Z" transform="translate(-30,0)" fill="none" stroke="#FF6B5B" stroke-width="7" stroke-linejoin="round"/></g>
+<g mask="url(#mR20)"><path d="M-40 0 a40 40 0 1 0 80 0 a40 40 0 1 0 -80 0 Z" transform="translate(30,0)" fill="none" stroke="#1FA59A" stroke-width="7" stroke-linejoin="round"/></g>
+<circle cx="-16" cy="-7.0" r="7.65" fill="#1E2A3A"/><path d="M-28.6 20.0 v-5.4 a12.6 12.6 0 0 1 25.2 0 v5.4 Z" fill="#1E2A3A"/><circle cx="16" cy="-7.0" r="7.65" fill="#1E2A3A"/><path d="M3.4000000000000004 20.0 v-5.4 a12.6 12.6 0 0 1 25.2 0 v5.4 Z" fill="#1E2A3A"/></svg>

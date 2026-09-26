@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 130 130"><title>meet in</title><rect width="130" height="130" rx="30" fill="#1E2A3A"/><g transform="translate(65,65) scale(.66)"><defs>
+<clipPath id="top14"><rect x="-200" y="-200" width="400" height="184"/></clipPath>
+<clipPath id="bot14"><rect x="-200" y="16" width="400" height="200"/></clipPath>
+<mask id="mL14" maskUnits="userSpaceOnUse" x="-200" y="-200" width="400" height="400"><rect x="-200" y="-200" width="400" height="400" fill="#fff"/>
+ <g clip-path="url(#bot14)"><path d="M-40 0 a40 40 0 1 0 80 0 a40 40 0 1 0 -80 0 Z" transform="translate(30,0)" fill="none" stroke="#000" stroke-width="20" stroke-linecap="round"/></g></mask>
+<mask id="mR14" maskUnits="userSpaceOnUse" x="-200" y="-200" width="400" height="400"><rect x="-200" y="-200" width="400" height="400" fill="#fff"/>
+ <g clip-path="url(#top14)"><path d="M-40 0 a40 40 0 1 0 80 0 a40 40 0 1 0 -80 0 Z" transform="translate(-30,0)" fill="none" stroke="#000" stroke-width="20" stroke-linecap="round"/></g></mask></defs>
+<g mask="url(#mL14)"><path d="M-40 0 a40 40 0 1 0 80 0 a40 40 0 1 0 -80 0 Z" transform="translate(-30,0)" fill="none" stroke="#FF6B5B" stroke-width="7" stroke-linejoin="round"/></g>
+<g mask="url(#mR14)"><path d="M-40 0 a40 40 0 1 0 80 0 a40 40 0 1 0 -80 0 Z" transform="translate(30,0)" fill="none" stroke="#1FA59A" stroke-width="7" stroke-linejoin="round"/></g>
+</g></svg>
